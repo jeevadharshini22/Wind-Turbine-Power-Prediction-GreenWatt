@@ -1,0 +1,4 @@
+Dataset: 909,604 records × 16 features
+Google Drive: https://drive.google.com/file/d/1L2j9bL1JvvNqC-X4slQKu4-n4Zk7fAWE
+Target: Power output (25.87–65.04 kW)
+Features: wind speed, generator RPM, temperatures
